@@ -4,7 +4,7 @@
 Yo! Have you ever heard of bebder game? It's addictive, and quite...
 
 
-An unoffical web port of the hit game Bebder Game using the EasyRPG WebAssembly engine
+An unofficial web port of the hit game Bebder Game using the EasyRPG WebAssembly engine
 
 The original can be found here: https://gamejolt.com/games/bebdergame/467287
 
